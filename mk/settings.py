@@ -129,3 +129,5 @@ LOGIN_REDIRECT_URL= '/profile/'
 
 DEFAULT_AUTO_FIELD = "django.db.models.BigAutoField"
 EMAIL_BACKEND = "django.core.mail.backends.console.EmailBackend"
+RAZOR_KEY_ID ="rzp_test_Jw8Tr4hXf7A1Pb"
+RAZOR_KEY_SECRET = "eyFA84z0Nm99bddDSXjMYTQb"
